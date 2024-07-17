@@ -1,10 +1,6 @@
 ## Gloucester Marine Genomics Institute: Fisheries Team 🐟🧬
 
-### Team 
-
-Research Scientist (Principal Invesigator): Tim O'Donnell  
-Postdoctoral Scientist: [Dr. Emma Strand](https://github.com/emmastrand)  
-Research Associates: Dylan Comb, Nicola Cubba
+Project repositories contain either 'eDNA', 'Popgen', or 'Epigenetic' to denote genomic tools that were used. Use the repository search bar to find all projects related to each tool.
 
 <!--
 
