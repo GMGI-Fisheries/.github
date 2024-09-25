@@ -1,6 +1,8 @@
 ## Gloucester Marine Genomics Institute: Fisheries Team 🐟🧬
 
-Project repositories contain either 'eDNA', 'Popgen', or 'Epigenetic' to denote genomic tools that were used. Use the repository search bar to find all projects related to each tool.
+Project repositories contain either 'eDNA', 'PopGen', or 'Epigenetic' to denote the used genomic tools. You can use the repository search bar to find all projects related to each tool.
+
+For bioinformatic workflows, data management, and laboratory protocols, visit https://gmgi-fisheries.github.io/resources/. 
 
 <!--
 
