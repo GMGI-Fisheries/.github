@@ -2,7 +2,7 @@
 
 Project repositories contain either 'eDNA', 'PopGen', or 'Epigenetic' to denote the used genomic tools. You can use the repository search bar to find all projects related to each tool.
 
-For bioinformatic workflows, data management, and laboratory protocols, visit https://gmgi-fisheries.github.io/resources/. 
+For bioinformatic workflows, computing resources, and data management, visit https://gmgi-fisheries.github.io/resources/. 
 
 <!--
 
